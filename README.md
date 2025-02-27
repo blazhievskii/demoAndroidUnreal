@@ -1,4 +1,4 @@
-# My first demo project for Android made in Unreal 5. Working with cameras and lighting.
+# Demo project for Android made in Unreal 5. Working with cameras and lighting.
 * Unreal Engine 5.2
 * Used blueprints
 * Project Unreal Engine for Android
